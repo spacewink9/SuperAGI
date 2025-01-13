@@ -1,21 +1,88 @@
-MIT License
+License Agreement, Terms and Conditions, and Privacy Policy
 
-Copyright (c) 2025 Spacewink Official 
+Effective Date: January 14, 2025  
+Last Updated: January 14, 2025  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This License Agreement (“Agreement”) governs the use, distribution, and modification of the software, documentation, and intellectual property (collectively referred to as the "Software") provided by Spacewink Official (“Licensor”). By accessing, downloading, or using the Software, you (“User”) agree to comply with the terms outlined in this Agreement.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+GRANT OF LICENSE  
+The Licensor grants the User a non-exclusive, worldwide, royalty-free license to use, copy, modify, distribute, sublicense, and/or sell copies of the Software, subject to the following terms and conditions:  
+1.1. This license is granted solely for lawful, ethical, and non-harmful purposes.  
+1.2. Attribution to Spacewink Official must be visibly maintained in all copies, modifications, or redistributed versions of the Software.  
+
+---
+
+ CONDITIONS OF USE  
+2.1. The Software may only be used in compliance with all applicable local, national, and international laws.  
+2.2. Users are prohibited from using the Software for:  
+   a. Developing or deploying systems that promote violence, hate speech, or discrimination.  
+   b. Creating surveillance or monitoring tools without explicit user consent.  
+   c. Manufacturing or deploying autonomous weapons, malicious bots, or systems designed for unethical purposes.  
+2.3. Users must ensure that their implementation of the Software does not breach data protection laws, including but not limited to GDPR, CCPA, and other relevant privacy frameworks.  
+
+---
+
+INTELLECTUAL PROPERTY RIGHTS  
+3.1. All intellectual property, concepts, methodologies, and designs associated with the Software are the exclusive property of Spacewink Official.  
+3.2. Users are prohibited from reverse engineering, decompiling, or misappropriating the Software’s proprietary elements.  
+3.3. Any unauthorized use of Spacewink’s intellectual property will be subject to immediate legal action under applicable copyright and intellectual property laws.  
+
+---
+
+ PRIVACY POLICY  
+4.1. The Licensor respects the privacy of all users and adheres to the highest standards of data protection.  
+4.2. The Software does not collect, store, or process user data unless explicitly required and disclosed in the documentation.  
+4.3. If user data is collected, the following principles apply:  
+   a. Users must be informed of the data collection purpose and usage.  
+   b. Data must only be used for the specified purpose and not shared with third parties without user consent.  
+   c. Users have the right to request data deletion or access.  
+
+---
+
+SECURITY COMPLIANCE  
+5.1. Users must implement appropriate security measures to safeguard the Software and associated data from unauthorized access or misuse.  
+5.2. Any discovered vulnerabilities in the Software must be reported to Spacewink Official immediately via Founder@spacewink.com.  
+
+---
+
+ETHICAL STANDARDS  
+6.1. Users agree to uphold ethical standards in the development and deployment of the Software.  
+6.2. AI systems developed using the Software must align with principles of fairness, transparency, accountability, and the avoidance of harm.  
+6.3. Violations of ethical standards will result in the immediate termination of the license.  
+
+---
+
+ TERMINATION AND REVOCATION  
+7.1. This license is revocable at any time if the User violates the terms of this Agreement.  
+7.2. Upon termination, the User must immediately cease all use of the Software, delete all copies, and certify the removal to the Licensor.  
+
+---
+
+ LIMITATION OF LIABILITY  
+8.1. THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+8.2. SPACEWINK OFFICIAL SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE, INABILITY TO USE, OR MISUSE OF THE SOFTWARE.  
+
+---
+
+GOVERNING LAWS  
+9.1. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Spacewink Official operates.  
+9.2. Any disputes shall be resolved exclusively under the jurisdiction of courts located in the same region.  
+
+---
+
+ UPDATES AND MODIFICATIONS  
+10.1. The Licensor reserves the right to update or modify this Agreement at any time.  
+10.2. Continued use of the Software after such modifications implies acceptance of the updated terms.  
+
+---
+
+CONTACT AND SUPPORT  
+For questions, reporting violations, or seeking additional permissions, contact Spacewink Official at:  
+Email: Founder@spacewink.com  
+
+---
+
+By using the Software, the User acknowledges and agrees to the terms and conditions outlined in this Agreement. Any violation of these terms will result in immediate license revocation and potential legal action.  
+```
